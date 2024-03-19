@@ -24,4 +24,4 @@
 `API is a part of the server - so handling and responding go in the same file`
 
 * Install the `REST Client` extension in VSCode --> (alternative to POSTMAN)
-* 
+* Right now, we don't use a `REACT APP` so create a `.http` extension file, say `client.http`
