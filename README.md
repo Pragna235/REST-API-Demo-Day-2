@@ -8,4 +8,4 @@
 `[Note]` : `http is a stateless protocol because it does not store any information regarding its previous requests`
 
 *     npm install express
-* 
+* Write code in the `server.js` file
