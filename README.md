@@ -31,3 +31,25 @@
 * `[Note]` : `Express directly converts JS Object to JSON Object`
 * `[Note]` : `Also, ### is a separator that separates the CRUD Operations in the client.http file`
 * `[Note]`: `Click on the Send Request button that is generated in the client.http file above the separators to check if the Operation had been successful or not`
+* API Routes in the `server.js` for reference :
+*     //route to get users
+      app.get('/users',(req,res)=>{
+          //resend response
+          res.send({message:"all users"});
+      })
+
+      //route to create user
+      app.post('/user',(req,res)=>{
+          res.send({message:"User Created"});
+      })
+
+      //route to update user
+      app.put('/user',(req,res)=>{
+          res.send({message:"User Updated"});
+      })
+
+      //route to delete user
+      app.delete('/user',(req,res)=>{
+          res.send({message:"User Removed"});
+      })
+* 
