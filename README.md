@@ -28,4 +28,4 @@
 * Write all the paths in this file for the `CRUD Operations`
 * `[Note]` : `Syntax : api.HTTP_REQUEST(route, req handler)`
 * `[Note]` : `Express directly converts JS Object to JSON Object`
-* `[Note]` : `Also, ### is a separator that separated the CRUD Operations in the client.http file`
+* `[Note]` : `Also, ### is a separator that separates the CRUD Operations in the client.http file`
