@@ -14,7 +14,8 @@
       const app = exp();                                                          //http server is created
 
       //assign port number
-      app.listen(4000,()=>console.log("Server is Running"));
+      const port = 4000;
+      app.listen(port,()=>console.log(`http server listening in ${port}`));
 *     node server.js
 * Click `ctrl+c` to stop the running server
 * Paste the below in your browser to check the response
