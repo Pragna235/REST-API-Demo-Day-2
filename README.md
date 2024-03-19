@@ -22,3 +22,6 @@
 *     http://localhost:4000/
 `[Note]` : `Client makes the request, API handles the request, Server responds to the request`
 `API is a part of the server - so handling and responding go in the same file`
+
+* Install the `REST Client` extension in VSCode --> (alternative to POSTMAN)
+* 
