@@ -52,4 +52,5 @@
       app.delete('/user',(req,res)=>{
           res.send({message:"User Removed"});
       })
-* 
+* To start the server is `watch mode`
+*     node --watch server.js
