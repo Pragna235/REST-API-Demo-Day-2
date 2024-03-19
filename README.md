@@ -54,3 +54,4 @@
       })
 * To start the server is `watch mode`
 *     node --watch server.js
+* This is used to restart the server automatically when a change is made instead of doing it manually
