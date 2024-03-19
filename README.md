@@ -16,6 +16,7 @@
       //assign port number
       const port = 4000;
       app.listen(port,()=>console.log(`http server listening in ${port}`));
+* To start the server : 
 *     node server.js
 * Click `ctrl+c` to stop the running server
 * Paste the below in your browser to check the response
