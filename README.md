@@ -5,7 +5,7 @@
 *     npm init
 * Create a `server.js` file since, `"main": "server.js",` this is the name in main field in this  `package.json`
 
-`[Note]` : `http is a stateless protocol because it does not store any information regarding its previous requests`
+* `[Note]` : `http is a stateless protocol because it does not store any information regarding its previous requests`
 
 *     npm install express
 * Write below code in the `server.js` file and check if the server is running or not
@@ -20,10 +20,10 @@
 * Click `ctrl+c` to stop the running server
 * Paste the below in your browser to check the response
 *     http://localhost:4000/
-`[Note]` : `Client makes the request, API handles the request, Server responds to the request`
-`API is a part of the server - so handling and responding go in the same file`
+* `[Note]` : `Client makes the request, API handles the request, Server responds to the request`
+* `API is a part of the server - so handling and responding go in the same file`
 
 * Install the `REST Client` extension in VSCode --> (alternative to POSTMAN)
 * Right now, we don't use a `REACT APP` so create a `.http` extension file, say `client.http`
 * Write all the paths in this file for the `CRUD Operations`
-`[Note]` : `Syntax : api.HTTP_REQUEST(route, req handler)`
+* `[Note]` : `Syntax : api.HTTP_REQUEST(route, req handler)`
