@@ -17,3 +17,5 @@
       app.listen(4000,()=>console.log("Server is Running"));
 *     node server.js
 * Click `ctrl+c` to stop the running server
+* Paste the below in your browser to check the response
+*     http://localhost:4000/
