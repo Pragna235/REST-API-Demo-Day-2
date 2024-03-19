@@ -20,3 +20,5 @@
 * Click `ctrl+c` to stop the running server
 * Paste the below in your browser to check the response
 *     http://localhost:4000/
+`[Note]` : `Client makes the request, API handles the request, Server responds to the request`
+`API is a part of the server - so handling and responding go in the same file`
