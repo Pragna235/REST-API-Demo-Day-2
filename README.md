@@ -29,3 +29,4 @@
 * `[Note]` : `Syntax : api.HTTP_REQUEST(route, req handler)`
 * `[Note]` : `Express directly converts JS Object to JSON Object`
 * `[Note]` : `Also, ### is a separator that separates the CRUD Operations in the client.http file`
+* `[Note]`: `Click on the Send Request button that is generated in the client.http file above the separators to check if the Operation had been successful or not`
