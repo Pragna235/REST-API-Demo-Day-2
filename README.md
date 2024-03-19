@@ -26,3 +26,4 @@
 * Install the `REST Client` extension in VSCode --> (alternative to POSTMAN)
 * Right now, we don't use a `REACT APP` so create a `.http` extension file, say `client.http`
 * Write all the paths in this file for the `CRUD Operations`
+`[Note]` : `Syntax : api.HTTP_REQUEST(route, req handler)`
